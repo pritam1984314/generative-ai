@@ -18,3 +18,8 @@ Here are some examples of how generative AI can be used:
     -  Generative AI can be used in education to create personalized learning materials and assessments based on individual student's learning patterns.
 
 Overall, the potential applications of generative AI are vast and varied, and we are only just beginning to scratch the surface of what is possible.
+
+This repository contains Jupyter notebooks that attempt to understand different tools and techniques for generative AI like following.
+- OpenAI
+- Bloom
+- HuggingFace
