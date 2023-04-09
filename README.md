@@ -26,4 +26,6 @@ This repository contains Jupyter notebooks that attempt to understand different 
 
 Our first attempt to see power of generative AI will try to develop linkedin headline on basis of either job description or part of resume.
 You can access it with following link.
+
+
 https://github.com/pritam1984314/generative-ai/blob/main/linkedin_headline_generator.ipynb
